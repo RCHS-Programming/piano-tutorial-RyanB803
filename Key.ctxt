@@ -1,8 +1,13 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Key()
-comment0.text=\n\ Create\ a\ new\ key.\n
+comment0.target=Key
 comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Do\ the\ action\ for\ this\ key.\n
-numComments=2
+comment1.target=Key()
+comment1.text=\n\ Create\ a\ new\ key.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Do\ the\ action\ for\ this\ key.\n
+comment3.params=
+comment3.target=void\ play()
+comment4.params=keyName\ soundFile
+comment4.target=Key(java.lang.String,\ java.lang.String)
+numComments=5
